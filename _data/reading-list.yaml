@@ -221,7 +221,7 @@
       amazon:
       star:
       fiction: false
-      year:
+      year: 2020
 
     - title: Paris in the Present Tense
       subtitle:
@@ -230,4 +230,13 @@
       amazon:
       star:
       fiction: true
+      year:
+    
+    - title: Zero to Sold
+      subtitle: How to Start, Run, and Sell a Bootstrapped Business
+      author: Arvid Kahl
+      authorlink:
+      amazon:
+      star:
+      fiction: false
       year:
