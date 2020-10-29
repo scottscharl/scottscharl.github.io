@@ -1,0 +1,56 @@
+---
+title: Scott Scharl
+timezone: America/Denver
+collections:
+  thoughts:
+    title: Thoughts
+    output: true
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
+author: ""
+description: ""
+email: hello@scottscharl.com
+show_excerpts: true # set to true to show excerpts on the homepage
+
+# below used for RSS settings with jekyll-feed
+# name: Scott Scharl's Blog
+#description:
+#url: https://scottscharl.com/blog
+#feed_items: 10
+#feed_update_period: daily
+#feed_update_frequency: 1
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: scott_scharl
+    github: scottscharl
+    linkedin: scottscharl
+    buymeacoffee: scottscharl
+header_pages:
+- thoughts.md
+- podcast.md
+- projects0.md
+- reading-list.md
+- resume.md
+- who-i-follow.md
+theme: minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+ - jekyll-github-metadata
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      layout: "default"
+
+# Google  Analytics
+google_analytics: UA-106080214-3

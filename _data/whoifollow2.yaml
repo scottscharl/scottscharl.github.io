@@ -1,0 +1,413 @@
+- category: "Business, Tech, & Entrepreneurship"
+  people:
+    - name: David Perell
+      website: https://perell.com/start-here
+      twitter: david_perell
+      jobtitle: Founder
+      companyname: Write of Passage
+      companylink: https://writeofpassage.school
+      location:
+      podtitle:
+      podlink:
+      description: >
+        David's work "...explores how we consume, organize,
+        and share ideas." He runs an online writing course called
+        [Write of Passage](https://writeofpassage.school), hosts the
+         [North Star Podcast](https://www.perell.com/podcast), and
+         writes excellent [long-form essays](https://perell.com/blog).
+
+    - name: David Senra
+      website: https://founderspodcast.com
+      twitter: davidsenra1
+      jobtitle:
+      companyname:
+      companylink:
+      location:
+      podtitle: Founders Podcast
+      podlink: https://founderspodcast.com
+      description: >
+        David reads biographies of entrepreneurs and offers highlights
+        and anecdotes in a solo podcast
+        format. If it sounds simple, that's because it is.
+        No interviews, just David dropping knowledge
+        and helping you decide if you want to pick up the
+        book and learn the rest. Half of the shows are free.
+
+    - name: Howard Lindzon
+      enable: false
+      website: https://howardlindzon.com
+      twitter: howardlindzon
+      jobtitle: Founder
+      companyname: Social Leverage
+      companylink: https://socialleverage.com
+      location: Scottsdale, AZ
+      podtitle: Lindzanity Podcast
+      podlink: https://www.youtube.com/channel/UCXDQ9JKuZcqJ8pZ4BpBsHnw
+      description: >
+        Imagine your favorite uncle was a venture capitalist.
+        Howard's laid back and unpolished style makes him instantly likeable.
+
+    - name: Jason Fried
+      website: https://signalvnoise.com
+      twitter: jasonfried
+      jobtitle: Founder
+      companyname: Basecamp
+      companylink: https://basecamp.com
+      location: Chicago, IL
+      podtitle:
+      podlink:
+      description: >
+        Jason and his business partner David Heinemeier Hansson are contrarians
+        in the tech world. They built [Basecamp](https://basecamp.com)
+        without venture capital investors,
+        and have continued to remain independent for 20 years. They wrote a book
+        about their business philosophy, ReWork, which is on my
+        [reading list](/reading-list). I first heard Jason
+        on [this episode](https://www.perell.com/podcast/jason-fried)
+        of David Perell's podcast. Jason told the the story of Basecamp
+        and fleshed out the company's healthy and reasonable ethos
+         around productivity. All in all, Jason offers fascinating ideas that
+        I will someday apply to my own company.
+
+    - name: Julian Shapiro
+      enable: false
+      website: https://julian.com
+      twitter: julian
+      jobtitle: Founder
+      companyname: Demand Curve
+      companylink: https://demandcurve.com
+      location: San Francisco, CA
+      podtitle:
+      podlink:
+      description: >
+        Julian writes well. In addition to blog posts, his personal site
+        includes a set of handbooks that he regularly updates.
+        It's an interesting way of presenting information
+        that I haven't seen anyone else do in quite the same way.
+
+    - name: Naval Ravikant
+      enable: false
+      website: https://nav.al/
+      twitter: naval
+      jobtitle: Founder
+      companyname: Angel List
+      companylink: https://AngelList.co
+      location: Silicon Valley, CA
+      podtitle:
+      podlink:
+      description: >
+        Naval is more than just a successful tech founder and investor--he's also
+        a Stoic philosopher with fascinating thoughts on the good life.
+
+    - name: Sahil Lavingia
+      website: https://sahillavingia.com/
+      twitter: shl
+      jobtitle: Founder
+      companyname: Gumroad
+      companylink: https://gumroad.com/
+      location: Silicon Valley, CA
+      podtitle:
+      podlink:
+      description: >
+        Sahil is another tech entrepreneur-turned-investor with great
+        takes on the tech industry.
+
+    - name: Nathan Barry
+      website: https://nathanbarry.com/
+      twitter: nathanbarry
+      jobtitle: Founder
+      companyname: Convertkit
+      companylink: https://convertkit.com/
+      location: Boise, ID
+      podtitle:
+      podlink:
+      description: >
+        Like David Perell, Nathan is an expert in the craft of building an
+        audience online through writing. [This interview with David Perell was
+         fantastic.](https://www.youtube.com/watch?v=wd7PWSzWxlA) I find his
+         "Ladders of Wealth Creation" conceot idea especially fascinating.
+
+    - name: Scott Galloway
+      enable: false
+      website: https://profgalloway.com
+      twitter: profgalloway
+      jobtitle: Professor of Marketing
+      companyname: NYU Stern School of Business
+      companylink: https://www.stern.nyu.edu/
+      location: New York, NY
+      podtitle: Pivot Podcast
+      podlink: https://podcasts.voxmedia.com/show/pivot
+      description: >
+        Professor Galloway offers opinionated takes on investing, tech, and
+        finance. Always entertaining.
+
+- category: "Finance & Investing"
+  people:
+      - name: Brent Beshore
+        website: https://adventur.es
+        twitter: brentbeshore
+        jobtitle: CEO
+        companyname: Adventur.es
+        companylink: https://adventur.es
+        location: Columbia, MO
+        podtitle: The Messy Marketplace
+        podlink:
+        description: >
+          Brent's Twitter feed is a wealth of fascinating ideas. Easily one of the
+          "good guys" of finance.
+
+      - name: Patrick O'Shaughnessy
+        website: https://investlikethebest.com
+        twitter: patrick_oshag
+        jobtitle: CEO & Portfolio Manager
+        companyname: O'Shaughnessy Asset Management
+        companylink: https://www.osam.com
+        location: Stamford, CT
+        podtitle: Invest Like The Best
+        podlink: https://investlikethebest.com
+        description: >
+          Patrick asks insightful and unexpected questions that draw out the personality
+          of his guests. His is easily one the best (and post popular) business
+          podcasts in existence today.
+
+      - name: Meb Faber
+        website: https://mebfaber.com
+        twitter: mebfaber
+        jobtitle: CEO
+        companyname: Cambria Investments
+        companylink: https://cambriainvestments.com
+        location: Manhattan Beach, CA
+        podtitle: The Meb Faber Show
+        podlink: https://mebfaber.com/podcast
+        description: >
+          Meb prides himself on being a contrarian to the investing mainstream. He has compelling thoughts
+          on asset allocation strategies and quantitative factor investing, but presents his ideas
+          in layman's terms and with plenty of humor.
+          Meb's [whitepapers](https://mebfaber.com/white-papers)
+          and free books available on his website.
+
+      - name: Barry Ritholtz
+        website: https://ritholtz.com
+        twitter: ritholtz
+        jobtitle: Founder & Chief Investment Officer
+        location: New York, NY
+        companyname: Ritholtz Wealth Management
+        companylink: https://ritholtzwealth.com
+        podtitle: Masters In Business
+        podlink: https://www.bloomberg.com/podcasts/masters_in_business
+        description: >
+          Barry has had some very notable guests on his Bloomberg show. He also writes regularly
+          for Bloomberg and on his blog. He comes prepared with great questions for his guests.
+
+      - name: Josh Brown
+        enable: false
+        website: https://reformedbroker.com
+        twitter: ReformedBroker
+        jobtitle: CEO
+        companyname: Ritholtz Wealth Management
+        companylink: https://ritholtzwealth.com
+        location: New York, NY
+        podtitle:
+        podlink:
+        description: >
+          Known on Twitter as Downtown Josh Brown, he's been writing at the Reformed Broker
+          online since 2008 and is very active
+          on Twitter. He also regularly appears
+          on CNBC discussing financial markets and investing.
+
+      - name: Ramp Capital
+        website: https://330ramp.com
+        twitter: rampcapitalllc
+        jobtitle:
+        companyname:
+        companylink:
+        location:
+        podtitle:
+        podlink:
+        description: >
+          An anonymous Twitter account with hilarious commentary on
+          investing, markets, and current events.
+
+      - name: Ted Seides
+        enable: false
+        website: https://capitalallocatorspodcast.com
+        twitter: tseides
+        jobtitle:
+        location:
+        companyname:
+        companylink:
+        podtitle: Capital Allocators
+        podlink: https://capitalallocatorspodcast.com
+        description: >
+          Ted spent many years as an investor with the Yale Endowment Office,
+          picking money managers for the fund to invest with.
+          He also famously lost a public
+          bet with Warren Buffett that hedge funds
+          would outperform the S&P500 index between 2008-2018.
+          He tells that story in
+          [this podcast with Patrick O'Shaughnessy](https://capitalallocatorspodcast.com/2017/04/28/betwithbuffett/).
+
+#- category: "Academics & Philosophers"
+  #people:
+
+
+- category: "Architecture & Urbanism"
+  people:
+    - name: Wrath of Gnon
+      website: https://wrathofgnon.tumblr.com
+      twitter: wrathofgnon
+      jobtitle: Blogger
+      location:
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+        Another anonymous Twitter account. His/her Twitter bio simply reads
+        "Traditionalist." Wrath constantly shares the beauty and wisdom of bygone
+        ages, especially in the development of towns and cities.
+        Wrath will quickly convince you that the automobile ruined our cities.
+
+    - name: "Architecture Classico"
+      enable: false
+      website: 'https://twitter.com/world_classico'
+      twitter: "world_classico"
+      jobtitle:
+      location:
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+        Great traditional architecture photos, drawings, and paintings.
+
+    - name: "Erik Bootsma"
+      enable: true
+      website: 'https://catholicarchitect.com'
+      twitter: ErikBootsma
+      jobtitle: Architect
+      location: Richmond, VA
+      companyname: Bootsma Design
+      companylink: https://bootsmadesign.com
+      podtitle:
+      podlink:
+      description: >
+        Erik is a classical architect who is very active on Twitter.
+
+    - name: "Chistopher Liberatos"
+      enable: true
+      website:
+      twitter: CharlestonArchi
+      jobtitle: Architect
+      location: Charleston, SC
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+        Another classical architect who is very active on Twitter.
+
+    - name: "R. John Anderson"
+      website: 'http://www.andersonkim.com/r-john-anderson/'
+      twitter: johnthebad
+      jobtitle: "Real Estate Developer/Builder/Urban Designer"
+      location: Atlanta, GA
+      companyname: "AndersonKim Architecture + Urban Design"
+      companylink: https://andersonkim.com
+      podtitle:
+      podlink:
+      description: >
+        R. John is an urbanist raconteur who puts his money where his mouth is.
+        He is an expert in small-scale urban development projects and has decades
+        of experience dealing with zoning laws, parking requirements,
+        and city councils to get beautiful places built on a small scale. John is
+        the only person on this list (other than my wife) that I've met in person.
+        His energy and wit are infectious and he is a wealth of knowledge on getting
+        things built. John is active with the
+        [Incremental Development Alliance](https://incrementaldevelopment.org),
+        a nonprofit dedicated to helping individuals learn the process of
+        thoughtful redevelopment.
+
+    - name: Charles Marohn
+      website: https://strongtowns.org
+      twitter: clmarohn
+      jobtitle: Founder & President
+      location: Brainerd, MN
+      companyname: Strong Towns
+      companylink: https://strongtowns.org
+      podtitle:
+      podlink:
+      description: >
+        Chuck Marohn is a visionary who has dedicated his career to changing how
+        human beings build their cities.
+
+    - name: Johnny Sanphillippo
+      website: https://granolashotgun.com/
+      twitter:
+      jobtitle: Blogger
+      location: San Francisco, CA
+      companyname: Granola Shotgun
+      companylink: https://granolashotgun.com
+      podtitle:
+      podlink:
+      description: >
+
+- category: "Artists"
+  people:
+    - name: J. C. Scharl
+      website: https://jcscharl.com
+      twitter: jcscharl
+      jobtitle: Poet, Author, Critic
+      location:
+      companyname: (Self-Employed)
+      companylink: https://jcscharl.com
+      podtitle:
+      podlink:
+      description: >
+        My wife. She has published numerous poems and critical works
+        is currently working on a novel, *The Dream Interpreter*.
+
+    - name: A. E. Stallings
+      website: https://aestallings.wixsite.com
+      twitter: ae_stallings
+      jobtitle: Poet
+      location: Athens, Greece
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+
+    - name: Jane Greer
+      website:
+      twitter: NorthDakotaJane
+      jobtitle: Poet
+      location: Bismarck, ND
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+
+    - name: Maryann Corbett
+      website: maryanncorbett.com
+      twitter: Saint Paul, MN
+      jobtitle: Poet
+      location: Saint Paul, MN
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+
+    - name: AlexanderPiano
+      website: https://bit.ly/2W8P7AK
+      twitter:
+      jobtitle: Pianist
+      location:
+      companyname:
+      companylink:
+      podtitle:
+      podlink:
+      description: >
+          Alex posts wonderful piano recordings on his YouTube channel.

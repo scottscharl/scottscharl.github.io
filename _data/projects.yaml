@@ -1,0 +1,84 @@
+---
+# Projects data here:
+- name: Career Blues
+  link:
+  howtolink:
+  description: >
+    My podcast where guests and I riff on the
+    meaning of work and the Good Life. *Coming March 2020.*
+
+- name: FinTwit Store
+  link: https://fintwit.store
+  howtolink:
+  description: >
+    My first-ever [Shopify](https://shopify.com "Shopify") store!
+    This one offers print-on-demand products for members of the
+    Finance Twitter community.
+
+- name: Quotebot
+  link: /quotebot
+  howtolink:
+  description: >
+    A bot that collects pithy quotes submitted by my friends and I into an [Airtable](https://airtable.com "Airtable")
+    base, then posts them to [Twitter](https://twitter.com/quotebot) via a
+    [Zapier](https://zapier.com "Zapier") integration.
+    You can [submit a quote here](https://airtable.com/shrrPMrmJfzTJbVpE "quote submission form")
+    if you have a good one that comes to mind!
+
+- name: Scott's Links
+  link: https://scotts-links.webflow.io
+  howtolink:
+  description: >
+    A collection of my favorite essays and blogposts. Built using no-code website builder
+     [Webflow](https://webflow.com).
+
+- name: Scott Reads Poetry
+  link: /scott-reads-poetry
+  howtolink:
+  description: >
+    I read poems for your enjoyment. The goal is to test my equipment
+    and learn how to produce a podcast.
+    I'm currently using [Anchor.fm](https://anchor.fm/scottreadspoetry "Anchor.fm")
+    to publish the recordings.
+    [Check out my readings](/scott-reads-poetry "Listen here on scottscharl.com"),
+    and [let me know what you think](mailto:hello@scottscharl.com)!
+
+- name: Springs Beer
+  link: https://springsbeer.glideapp.io
+  howtolink:
+  description: >
+    A no-code mobile app I built using [Glide](https://www.glideapps.com "Glide") that
+    lists name, location, and contact info for all local breweries
+    in Colorado Springs, Colorado. Users may save Favorites
+    and to post reviews of each establishment.
+    This was a fun mini-project! You could very easily make one for your town by cloning my app.
+    Look for a tutorial soon!
+
+- name: scottscharl.com
+  link:
+  howtolink:
+  description: >
+    I built this site using [Jekyll](https://jekyllrb.com "Jekyll"),
+    a static website framework, and host it for free on
+    [Github Pages](https://pages.github.com "Github Pages").
+    This is my first-ever attempt at a web development project.
+    It's been fascinating to learn the rudiments of
+    command line, HTML, CSS, Javascript, YAML data files, and more.
+    I'll be improving the site's aesthetics and functionality over time as my knowledge grows,
+    as well as adding new posts to my blog. I am indebted to [Chuck Grimmett](http://cagrimmett.com "Chuck's personal site")
+    for his inspiration and for this
+    [helpful list of Jekyll resources](https://www.notion.so/Jekyll-Resources-61b89aaa0edf4eb49511bef51f5dec14 "Chuck rocks!")
+    he created for me.
+
+- name: jcscharl.com
+  link: https://jcscharl.com
+  howtolink:
+  description: >
+    I built my wife a writer website on [Wordpress](https://wordpress.com). An embedded Airtable allows her to quickly update lists of published [poems](https://jcscharl.com/poetry) and [articles](https://jcscharl.com/criticism).
+
+- name: Days Until Christmas
+  link: https://twitter.com/ChristmasUntil
+  howtolink:
+  description: >
+    This one's silly. I built Twitter bot that posts, daily, the number of days remaninng until Christmas.
+...
