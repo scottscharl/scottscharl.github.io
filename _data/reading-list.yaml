@@ -231,7 +231,7 @@
       star:
       fiction: true
       year:
-    
+
     - title: Zero to Sold
       subtitle: How to Start, Run, and Sell a Bootstrapped Business
       author: Arvid Kahl
@@ -239,4 +239,13 @@
       amazon:
       star:
       fiction: false
+      year:
+
+    - title: The Lord of the Rings
+      subtitle: The Two Towers
+      author: J. R. R. Tolkien
+      authorlink: https://en.wikipedia.org/wiki/J._R._R._Tolkien
+      amazon:
+      star:
+      fiction: true
       year:

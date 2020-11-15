@@ -34,7 +34,7 @@ minima:
     linkedin: scottscharl
     buymeacoffee: scottscharl
 header_pages:
-- thoughts.md
+- blog.md
 - podcast.md
 - projects0.md
 - reading-list.md
