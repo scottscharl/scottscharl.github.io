@@ -1,7 +1,7 @@
 ---
 title: Personal CRM
 date: 2020-11-15  
-layout: default_sub
+layout: default
 categories: project
 ---
 For years, I have struggled to maintain relationships with friends and family in distant places.
