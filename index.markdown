@@ -1,6 +1,6 @@
 ---
 title: Hello!
-layout: default
+layout: default_subandcoffee
 emoji: "&#128075;"
 likes:
 - Aeropress
