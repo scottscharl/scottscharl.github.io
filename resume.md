@@ -1,6 +1,6 @@
 ---
 title: Resume
-layout: default
+layout: default_subandcoffee
 emoji: "&#128441;"
 ---
 ### Professional Experience

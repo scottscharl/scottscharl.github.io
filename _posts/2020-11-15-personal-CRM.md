@@ -1,10 +1,11 @@
 ---
 title: Personal CRM
-date: 2020-11-15  
+date: 2020-11-15
 layout: default
-categories: project
+categories:
+- projects
 ---
-For years, I have struggled to maintain relationships with friends and family in distant places.
+For years, I have struggled to maintain relationships with friends and family in distant places. Who says robots can't help?
 
 Countless apps called CRMs (Customer Relationship Management) exist to help salespeople with this, by storing contact information, notes, and keeping a record of interactions in the cloud.
 
