@@ -248,4 +248,31 @@
       amazon:
       star:
       fiction: true
+      year: 2020
+
+    - title: The Ecommerce Marketing Handbook
+      subtitle:
+      author: 'Ben Jabbawy, Daniel J. Murray, and Lauren Hall'
+      authorlink:
+      amazon: https://shop.privy.com/products/the-ecommerce-marketing-handbook
+      star: true
+      fiction: false
+      year:
+
+    - title: The Lord of the Rings
+      subtitle: The Return of the King
+      author: J. R. R. Tolkien
+      authorlink: https://en.wikipedia.org/wiki/J._R._R._Tolkien
+      amazon:
+      star:
+      fiction: true
+      year: 2020
+
+    - title:
+      subtitle:
+      author:
+      authorlink:
+      amazon:
+      star:
+      fiction: false
       year:

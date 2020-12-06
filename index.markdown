@@ -1,6 +1,6 @@
 ---
 title: Hello!
-layout: default_subandcoffee
+layout: default
 emoji: "&#128075;"
 likes:
 - Aeropress
@@ -43,8 +43,6 @@ If you'd like to connect, I'm available on [Twitter](https://twitter.com/scott_s
 * Taking an intro. to JavaScript course at [Codecademy](https://www.codecademy.com/courses/introduction-to-javascript).
 
 * Increasing engagement for [QuoteBot](/quotebot), my bot that collects quotes from friends and posts them to [Twitter](https://twitter.com/squotebot).
-
-* Reading [Zapier's](https://zapier.com) ebook *Introduction to API's*. If you're curious like me, You can [download the ebook for free here](https://cdn.zapier.com/storage/learn_ebooks/e06a35cfcf092ec6dd22670383d9fd12.pdf).
 
 * (more on my [Projects](/projects) page)
 

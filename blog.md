@@ -1,6 +1,6 @@
 ---
 title: Blog
-layout: default_sub
+layout: default
 emoji: "&#128221;"
 ---
 {% for post in site.posts %}

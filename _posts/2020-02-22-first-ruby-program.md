@@ -2,7 +2,7 @@
 title: My First Ruby Program
 categories:
 - projects
-layout: post
+layout: default_sub
 ---
 
 The other day I wrote my first Ruby program, after finishing [this tutorial](https://ruby.github.io/TryRuby/).

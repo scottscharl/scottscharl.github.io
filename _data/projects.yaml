@@ -1,4 +1,3 @@
----
 # Projects data here:
 - name: Career Blues
   link:
@@ -81,4 +80,3 @@
   howtolink:
   description: >
     This one's silly. I built Twitter bot that posts, daily, the number of days remaninng until Christmas.
-...

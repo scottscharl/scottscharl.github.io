@@ -51,6 +51,5 @@ defaults:
       path: "" # an empty string here means all files in the project
     values:
       layout: "default"
-
 # Google  Analytics
 google_analytics: UA-106080214-3
