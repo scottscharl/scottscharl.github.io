@@ -1,5 +1,4 @@
 ---
-layout: default_sub
 title: Test Thoughts
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Focus
-layout: default_sub
+layout: default
 emoji: '&#127919;'
 ---
 [Julian Shapiro](https://julian.com) reviews this checklist each morning before he starts work. It's a great reminder that you have agency over how you spend your day!
