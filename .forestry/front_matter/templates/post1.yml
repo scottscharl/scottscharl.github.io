@@ -1,4 +1,14 @@
 ---
 label: post1
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: Title
+- name: body
+  type: text
+  config:
+    required: false
+  label: Body
