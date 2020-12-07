@@ -38,11 +38,11 @@ If you'd like to connect, I'm available on [Twitter](https://twitter.com/scott_s
 ## What I'm working on currently:
 * Setting up Career Blues, my podcast about the meaning of work and the Good Life.
 
-* Optimizing conversions on my Shopify store, [fintwit.store](https://fintwit.store).
-
 * Taking an intro. to JavaScript course at [Codecademy](https://www.codecademy.com/courses/introduction-to-javascript).
 
 * Increasing engagement for [QuoteBot](/quotebot), my bot that collects quotes from friends and posts them to [Twitter](https://twitter.com/squotebot).
+
+* Blogging [here](/blog) on my site.
 
 * (more on my [Projects](/projects) page)
 
