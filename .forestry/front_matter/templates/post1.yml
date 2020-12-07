@@ -12,5 +12,3 @@ fields:
   config:
     required: false
   label: Body
-pages:
-- _posts/rigorous-leisure.md
