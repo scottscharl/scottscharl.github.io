@@ -36,7 +36,7 @@ minima:
 header_pages:
 - blog.md
 - podcast.md
-- projects0.md
+- projects.md
 - reading-list.md
 - resume.md
 - who-i-follow.md

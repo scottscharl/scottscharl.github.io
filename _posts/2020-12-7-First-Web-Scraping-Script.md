@@ -1,11 +1,12 @@
 ---
 title: Web Scraping in Python
 layout: post
-
 ---
-After watching [this excellent tutorial](https://www.youtube.com/watch?v=f7LEWxX4AVI) by [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/?originalSubdomain=in), I built a python script that opens a web browser to YouTube and searches my name.
+I built a Python script that opens a web browser to YouTube and searches my name.
 
-I'm fascinated by all the possibilities to automate searches for things on the web.
+You could use code like this to automatically search Craigslist/eBay/etc. and notify you when someone puts up a rare item for sale.
+
+Many thanks to [Hitesh Choudhary](https://www.linkedin.com/in/hiteshchoudhary/?originalSubdomain=in) for [this excellent tutorial](https://www.youtube.com/watch?v=f7LEWxX4AVI).
 
 Note: When inspecting the YouTube page to copy the XPath, I could only get the script to work using the "full XPath" option (Hitesh says in the tutorial that you don't have to use the "full").
 
