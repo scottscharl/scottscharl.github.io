@@ -255,6 +255,6 @@
       author: J. R. R. Tolkien
       authorlink: https://en.wikipedia.org/wiki/J._R._R._Tolkien
       amazon:
-      star:
+      star: true
       fiction: true
-      year:
+      year: 2020
