@@ -2,12 +2,10 @@
 title: Scott Scharl
 timezone: America/Denver
 author: ""
-description: "My personal site, built with Jekyll."
+description: ""
 email: hello@scottscharl.com
 show_excerpts: true # set to true to show excerpts on the homepage
 future: false
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://scottscharl.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 # below used for RSS settings with jekyll-feed
