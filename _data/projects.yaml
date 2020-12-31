@@ -6,13 +6,13 @@
     My podcast where guests and I riff on the
     meaning of work and the Good Life. *Coming March 2020.*
 
-- name: FinTwit Store
-  link: https://fintwit.store
-  howtolink:
-  description: >
-    My first-ever [Shopify](https://shopify.com "Shopify") store!
-    This one offers print-on-demand products for members of the
-    Finance Twitter community.
+#- name: FinTwit Store
+#  link: https://fintwit.store
+#  howtolink:
+#  description: >
+#    My first-ever [Shopify](https://shopify.com "Shopify") store!
+#    This one offers print-on-demand products for members of the
+#    Finance Twitter community.
 
 - name: Quotebot
   link: /quotebot

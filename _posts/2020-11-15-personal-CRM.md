@@ -21,8 +21,4 @@ The app should:
 - Send them a card when I click a button
 - More things that I haven't thought of yet
 
-So, I'm going to build it.
-
 What's missing from my feature list above? I'd love to hear from you via [email](mailto:hello@scottscharl.com) or on Twitter [@scott_scharl](https://twitter.com/scott_scharl).
-
-For updates on this project, subscribe to my email updates below!
