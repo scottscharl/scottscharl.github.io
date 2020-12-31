@@ -2,7 +2,6 @@
 title: Hello!
 layout: default
 emoji: "&#128075;"
-separator: "&middot;&middot;"
 ---
 I'm a husband and dad (now of 2!) from Colorado. On this site I share projects I've built and point others to fascinating people and ideas.
 
@@ -17,7 +16,7 @@ If you'd like to connect, I'm available on [Twitter](https://twitter.com/scott_s
 
 * Increasing engagement for [QuoteBot](/quotebot), my bot that collects quotes from friends and posts them to [Twitter](https://twitter.com/squotebot).
 
-* Blogging [here](/blog) on my site.
+* [Blogging](/blog) here on my site.
 
 * (more on my [Projects](/projects) page)
 

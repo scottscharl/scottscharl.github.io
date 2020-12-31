@@ -1,6 +1,6 @@
 # Projects data here:
 - name: Career Blues
-  link:
+  link: /podcast
   howtolink:
   description: >
     My podcast where guests and I riff on the
@@ -73,10 +73,13 @@
   link: https://jcscharl.com
   howtolink:
   description: >
-    I built my wife a writer website on [Wordpress](https://wordpress.com). An embedded Airtable allows her to quickly update lists of published [poems](https://jcscharl.com/poetry) and [articles](https://jcscharl.com/criticism).
+    I built my wife a portfolio website on [Wordpress](https://wordpress.com).
+    An embedded Airtable allows her to quickly update lists of published [poems](https://jcscharl.com/poetry)
+    and [articles](https://jcscharl.com/criticism).
+    She's also able to collect signups to her newsletter, [Word Hoard](https://wordhoard.substack.com).
 
 - name: Days Until Christmas
   link: https://twitter.com/ChristmasUntil
   howtolink:
   description: >
-    This one's silly. I built Twitter bot that posts, daily, the number of days remaninng until Christmas.
+    This one's silly. I built Twitter bot that posts, daily, the number of days remaning until Christmas.
