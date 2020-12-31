@@ -1,9 +1,6 @@
 ---
 title: My First Ruby Program
-categories:
-- projects
 ---
-
 The other day I wrote my first Ruby program, after finishing [this tutorial](https://ruby.github.io/TryRuby/).
 
 The computer asks for a yes or no response, then displays one of my wife's unpublished poems. At the end, I put in an Easter egg for my wife with an additional yes or no question. <span>&#128578;</span>

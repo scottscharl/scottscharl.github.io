@@ -2,32 +2,7 @@
 title: Hello!
 layout: default
 emoji: "&#128075;"
-likes:
-- Aeropress
-- Antonio Carlos Jobim
-- B. H. Fairchild
-- chess
-- chocolate croissants
-- Dorothy Sayers
-- Factorio
-- G. K. Chesterton
-- Latin mottoes
-- lake days
-- Michigan football
-- Motown
-- omelettes
-- Paris
-- Pierre Ferrand Dry Curacao
-- Pimm's Cup
-- shrimp
-- Volkswagens
-- Zapier
-dislikes:
-- airliners
-- Instagram
-- licorice
-- pop music
-- virtue signaling
+separator: "&middot;&middot;"
 ---
 I'm a husband and dad (now of 2!) from Colorado. On this site I share projects I've built and point others to fascinating people and ideas.
 
@@ -47,12 +22,8 @@ If you'd like to connect, I'm available on [Twitter](https://twitter.com/scott_s
 * (more on my [Projects](/projects) page)
 
 <h2>&#128077; Things I Like</h2>
-{% for item in page.likes %}<button>{{ item }}</button>
+{% for item in site.data.likes.likes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
 {% endfor %}
 <h2>&#128078; Things I Don't Like</h2>
-{% for item in page.dislikes %}<button>{{ item }}</button>
+{% for item in site.data.likes.dislikes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
 {% endfor %}
-
-<!--
-<script async data-uid="bd86c467ee" src="https://motivated-founder-1392.ck.page/bd86c467ee/index.js"></script>
--->

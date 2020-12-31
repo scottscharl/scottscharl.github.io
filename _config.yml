@@ -1,25 +1,19 @@
 ---
 title: Scott Scharl
 timezone: America/Denver
-collections:
-  thoughts:
-    title: Thoughts
-    output: true
-  posts:
-    title: Posts
-    output: true
-  uploads:
-    title: Uploads
-    output: true
 author: ""
-description: ""
+description: "My personal site, built with Jekyll."
 email: hello@scottscharl.com
 show_excerpts: true # set to true to show excerpts on the homepage
-
+future: false
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://scottscharl.com" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
 # below used for RSS settings with jekyll-feed
 # name: Scott Scharl's Blog
-#description:
-#url: https://scottscharl.com/blog
+# description:
+# url: https://scottscharl.com/blog
 #feed_items: 10
 #feed_update_period: daily
 #feed_update_frequency: 1
@@ -27,7 +21,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
 minima:
-  date_format: "%b %-d, %Y"
+  skin: classic
+  date_format: "%b %e, %Y"
   social_links:
     twitter: scott_scharl
     github: scottscharl

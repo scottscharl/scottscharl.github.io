@@ -1,6 +1,5 @@
 ---
 title: Web Scraping in Python
-layout: post
 ---
 I built a Python script that opens a web browser to YouTube and searches my name.
 

@@ -1,8 +1,5 @@
 ---
 title: Personal CRM
-date: 2020-11-15
-categories:
-- projects
 ---
 For years, I have struggled to maintain relationships with friends and family in distant places. Who says robots can't help?
 

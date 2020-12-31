@@ -7,7 +7,7 @@
   fiction: false
   year: 2019
 
-- title: Iron John2
+- title: Iron John
   subtitle: A Book About Men
   author: Robert Bly
   authorlink: http://www.robertbly.com/
@@ -258,3 +258,12 @@
   star: true
   fiction: true
   year: 2020
+
+- title: Murder Must Advertise
+  subtitle:
+  author: Dorothy L. Sayers
+  authorlink: https://www.sayers.org.uk/
+  amazon:
+  star:
+  fiction: true
+  year:

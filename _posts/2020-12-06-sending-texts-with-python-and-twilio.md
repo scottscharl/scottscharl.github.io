@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 'Sending Texts with Python and Twilio'
 ---
 I learned how to manipulate the [Twilio API](https://www.twilio.com/docs/usage/api) in Python to send text messages from my pc's command line.

@@ -1,6 +1,6 @@
 ---
 title: Resume
-emoji: "&#128441;"
+emoji: "&#128188;"
 ---
 ### Professional Experience
 
