@@ -2,7 +2,7 @@
 title: Reading List
 layout: default
 emoji: "&#128218;"
-recommend_emoji: "&#11088;"
+recommend_emoji: "&#128077;"
 ---
 <span>{{ page.recommend_emoji }} </span>Recommended
 ## In Progress:
