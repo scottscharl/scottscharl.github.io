@@ -22,6 +22,6 @@ point 1 - People w/ a hobby are interesting!
 
 point 2 - Rigorous Leisure is more fulfilling
 
-point 3 - In our day and age, you may never know what nerdom could turn into a business.
+point 3 - In our day and age, you may never know what nerd-dom could turn into a business.
 
 close
