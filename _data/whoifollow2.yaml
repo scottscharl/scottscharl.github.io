@@ -187,6 +187,7 @@
           and free books available on his website.
 
       - name: Barry Ritholtz
+        enable: false
         website: https://ritholtz.com
         twitter: ritholtz
         jobtitle: Founder & Chief Investment Officer

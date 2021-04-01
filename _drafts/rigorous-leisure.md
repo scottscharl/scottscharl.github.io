@@ -1,15 +1,14 @@
 ---
 layout: post
-title: "Rigorous Leisure"
+title: "Become an Interesting Person through Rigorous Leisure"
 ---
-intro
-Hobbyists fascinate me.
+I used to think of leisure as relaxation. Now, it means something entirely different to me.
 
-Those people who seem to be forever working on projects.
+Leisure is simply how you spend your time away from work.
 
-My wife is a prime example. Whenever she has the time and energy, she is
 
-Perhaps it's offensive to call them "hobby"
+Dull people watch Netflix and scrolls social media all day. Interesting people are always working at something. It could be professional or amateur.
+
 
 What is it?
 * individually
