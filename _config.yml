@@ -28,11 +28,9 @@ minima:
     buymeacoffee: scottscharl
 header_pages:
 - blog.md
-- podcast.md
 - projects.md
 - reading-list.md
 - resume.md
-- who-i-follow.md
 theme: minima
 plugins:
  - jekyll-feed

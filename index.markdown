@@ -5,9 +5,7 @@ emoji: "&#128075;"
 ---
 I'm a husband and dad from Colorado.
 
-I started building this site in August 2019 as part of my personal commitment to "rigorous leisure." Soon, curiosity turned to fascination. In early 2021 I decided to quit my job and commit to a career building software.
-
-
+I started building this site in August 2019 (using [Jekyll](https://jekyllrb.com)) as part of a personal commitment to "rigorous leisure."
 
 Connect with me via [Twitter](https://twitter.com/scott_scharl) or [email](mailto:hello@scottscharl.com). Thank you for visiting!
 
@@ -15,7 +13,7 @@ Connect with me via [Twitter](https://twitter.com/scott_scharl) or [email](mailt
 
 * [Blogging](/blog) here on my site.
 
-* My [Projects](/projects) page.
+* Rebuilding my [wife's website](https://jcscharl.com) using [Ghost](https://ghost.org).
 
 <h2>&#128077; Things I Like</h2>
 {% for item in site.data.likes.likes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
