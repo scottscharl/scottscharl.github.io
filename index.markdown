@@ -3,13 +3,23 @@ title: Hello!
 layout: default
 emoji: "&#128075;"
 ---
-I'm a husband and dad from Colorado studying Software Engineering at [Springboard](https://springboard.com), a coding boot camp.
+I'm a husband and dad from Colorado.
 
-I started building this site in August 2019 as part of my personal commitment to "rigorous leisure." The more I learned about coding, the more fascinated I became, until in early 2021 I decided to make a career change and
+I started building this site in August 2019 as part of my personal commitment to "rigorous leisure." Soon, curiosity turned to fascination. In early 2021 I decided to quit my job and commit to a career building software.
 
-If you'd like to connect, I'm available on [Twitter](https://twitter.com/scott_scharl) or [email](mailto:hello@scottscharl.com). If you'd like to support my work, you can [buy me a coffee](https://buymeacoffee.com/scottscharl)! Thank you for visiting!
+
+
+Connect with me via [Twitter](https://twitter.com/scott_scharl) or [email](mailto:hello@scottscharl.com). Thank you for visiting!
 
 ## What I'm working on currently:
+
 * [Blogging](/blog) here on my site.
 
-* (more on my [Projects](/projects) page)
+* My [Projects](/projects) page.
+
+<h2>&#128077; Things I Like</h2>
+{% for item in site.data.likes.likes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
+{% endfor %}
+<h2>&#128078; Things I Don't Like</h2>
+{% for item in site.data.likes.dislikes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
+{% endfor %}
