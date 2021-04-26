@@ -14,10 +14,3 @@ Connect with me via [Twitter](https://twitter.com/scott_scharl) or [email](mailt
 * [Blogging](/blog) here on my site.
 
 * Rebuilding my [wife's website](https://jcscharl.com) using [Ghost](https://ghost.org).
-
-<h2>&#128077; Things I Like</h2>
-{% for item in site.data.likes.likes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
-{% endfor %}
-<h2>&#128078; Things I Don't Like</h2>
-{% for item in site.data.likes.dislikes %}<a href="https://www.google.com/search?q={{ item }}" target="_blank"><button>{{ item }}</button></a>
-{% endfor %}
