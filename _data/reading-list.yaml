@@ -264,6 +264,15 @@
   author: Dorothy L. Sayers
   authorlink: https://www.sayers.org.uk/
   amazon:
-  star:
+  star: true
   fiction: true
-  year:
+  year: 2021
+
+- title: Extreme Ownership
+  subtitle:
+  author: Jocko Willink & Leif Babin
+  authorlink: https://echelonfront.com/extreme-ownership/
+  amazon:
+  star: false
+  fiction: true
+  year: 2021
