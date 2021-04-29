@@ -285,3 +285,12 @@
   star:
   fiction: false
   year:
+
+- title: The Psychology of Money
+  subtitle:
+  author: Morgan Housel
+  authorlink: https://www.collaborativefund.com/blog/authors/morgan/
+  amazon:
+  star:
+  fiction: false
+  year:
