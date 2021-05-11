@@ -16,5 +16,3 @@ Connect with me via [Twitter](https://twitter.com/scott_scharl) or [email](mailt
 * [Blogging](/blog) here on my site.
 
 * Rebuilding my [wife's website](https://jcscharl.com) using [Ghost](https://ghost.org).
-
-currently
