@@ -11,7 +11,7 @@ Connect with me via [Twitter](https://twitter.com/scott_scharl) or [email](mailt
 
 ## What I'm currently working on:
 
-- *Looking for part-time work with a startup in customer support or community-building. (Know of something? Please [email me](mailto:hello@scottscharl.com) or reach out on [Twitter](https://twitter.com/scott_scharl)!)*
+- **Looking for part-time work with a startup in customer support or community-building. (Know of something? Please [email me](mailto:hello@scottscharl.com) or reach out on [Twitter](https://twitter.com/scott_scharl)!)**
 
 * [Blogging](/blog) here on my site.
 
