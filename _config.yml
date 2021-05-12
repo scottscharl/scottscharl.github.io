@@ -27,6 +27,7 @@ minima:
     linkedin: scottscharl
     buymeacoffee: scottscharl
 header_pages:
+- index.markdown
 - blog.md
 - projects.md
 - reading-list.md
