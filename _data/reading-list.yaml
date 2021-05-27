@@ -294,3 +294,12 @@
   star:
   fiction: false
   year:
+
+- title: This Is Marketig
+  subtitle:
+  author: Seth Godin
+  authorlink: https://seths.blog
+  amazon:
+  star:
+  fiction: false
+  year:
