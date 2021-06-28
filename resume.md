@@ -2,8 +2,8 @@
 title: Resume
 emoji: "&#128188;"
 ---
+Contact me at [**hello@scottscharl.com**](mailto:hello@scottscharl.com)
 ### Professional Experience
-
 {% for item in site.data.resume0 %}
 
 * **{{item.jobtitle}}**<br>
