@@ -1,6 +1,6 @@
 # Projects data here:
 - name: 🤖BirthdayBot
-  link: /birthdaybot
+  link: https://birthdaybot.carrd.co
   howtolink:
   description: >
     My first webapp, built using React.js and Node.js.
