@@ -291,15 +291,24 @@
   author: Morgan Housel
   authorlink: https://www.collaborativefund.com/blog/authors/morgan/
   amazon:
-  star:
+  star: true
   fiction: false
-  year:
+  year: 2021
 
 - title: This Is Marketing
   subtitle:
   author: Seth Godin
   authorlink: https://seths.blog
   amazon:
+  star:
+  fiction: false
+  year:
+
+- title: Wanting
+  subtitle: The Power of Desire in Everyday Life
+  author: Seth Godin
+  authorlink: https://seths.blog
+  amazon: https://www.amazon.com/Wanting-Power-Mimetic-Desire-Everyday/dp/1250262488
   star:
   fiction: false
   year:
