@@ -1,10 +1,19 @@
 # Projects data here:
-- name: Career Blues
-  link: /podcast
+- name: 🤖BirthdayBot
+  link: /birthdaybot
   howtolink:
   description: >
-    My podcast where guests and I riff on the
-    meaning of work and the Good Life. *Coming March 2020.*
+    My first webapp, built using React.js and Node.js.
+    It keeps track of the birthdays of your friends and family,
+    and notifies you ahead of time via email so you can
+    send them a card or gift in time.
+
+#- name: Career Blues
+#  link: /podcast
+#  howtolink:
+#  description: >
+#    My podcast where guests and I riff on the
+#    meaning of work and the Good Life. *Coming March 2020.*
 
 #- name: FinTwit Store
 #  link: https://fintwit.store
