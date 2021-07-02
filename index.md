@@ -3,7 +3,7 @@ title: Hello
 layout: default
 emoji: "&#128075;"
 ---
-I’m a husband, dad, and rookie coder in Colorado.
+I’m a husband, dad, and rookie coder in Colorado. I was born and raised in southeast Michigan, and after college spent six years in Arizona.
 
 In 2019, I finally indulged my fascination with software and built my first website, scottscharl.com, on nights & weekends. I used a static-site generator, [Jekyll](https://jekyllrb.com), to build it.
 
